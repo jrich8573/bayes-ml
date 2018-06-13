@@ -9,7 +9,7 @@
 	1. bayes-class.R		
 	1. naive-bayes.R		
 	1. knn.R		
-	1. non-parm Gaussian
+	1. non-parm-gaussian.R
 ### Data:
 
 1. traing.txt		
