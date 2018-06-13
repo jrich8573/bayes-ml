@@ -1,6 +1,4 @@
 # Jason Rich
-# MSIM 607 Machine Learning
-# Project 1
 # Bayesian Classifier
 
 
